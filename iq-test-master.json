@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iq-test-master",
+  "private_key_id": "e830f845c8eff564ce18d89aefe9e62251ff4dca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCy0Ssdtfw4Ttcn\nbQFt1qmxDfJtQIgpCepdk0AwJivVV5/etPog1eJegNyI8zrGQS8udeJNswHMB2bV\nMqszOfrWGGgtSG4BoII4S+9YWhXuvz78707TI+BycW7OHG8HudoaLMkInbO7xiIG\nuA18ivFIh5vk7MqDZ9cJ5B4uPjEmd6gvDF0ist9+NDytDMdLx4HQ3QHqelis1X3s\nFJ+m0pjJxrQHSt4Xal62Ld39huEUc4VERKWPEDc9xjkagS8sa0RBlg4rCn9kcA0P\nnOjPeAbX/Xtdgm6HPYeKQD7FRun2xFEZJd3u7y1oY+mjxeq5z6plgTmTKlxvoG1I\nGhHhDZnTAgMBAAECggEAUGH3vFTlCxjh3g7B0DLpuDY5TsRuEOisqqD5f0uBc9d+\nfdokAKO1LV9HA+c2+g0uXPfQIbaA7cs7/kXXMOF08U4qcoS3MtMJBq6X6sMgTeE5\nuvEGoaJkkH2OXmfov3Pb591PB6kAtT3VaOjO4zgAS+bt/OQ3CwggYgliSc5aQNxR\n6LR4jlGtzZUsrFPCrIoUFeB8KTBhwLoJBeXpGUwST34TZ27/SlJSM+Ulps0Y2Hpl\nhao7EkidOW8N9EK6ai3mMV9cMyEhGwUJA29okafWJPm1GydHgo7YSCKMI/t6FX+p\n+vqSzlxMwsJEuJqhtwVE8fPRQP/da701X/i1Oi2/XQKBgQD3JV1RwH4ZWvGexhzW\nckUxfLtf1qnGS3dn648OaaU9BsZ8hesAvQ68nCvhvxuCRVQX7c/pKSMt6dp0XNfG\n+LLhlUjXWOQYEoEkZ20lRO57few1HrFlNzPcVwT6ckdyYzcAaybHiBtPfv/op0J+\nLAGk6QMvuurFj7cD2pcGoHSIVQKBgQC5OSSgI20TwnnDXOqj4P9NzgCe+USDaD9H\ndaCzXZaBiyZAicLDbvbgh7g5JlIsb08iDOwiIsi7MMTkaEoHSIrKzo9WSBzi7adt\niMY7oYJSF+SinNog7ZTdUUyMUTqDKgcWSeVnJWGGDy50UN1XXO4kkSva0XTZPrN/\nB1ARq6vhhwKBgQC2Fkxb+COv0KZmIXaLtOMv48M1iDXLiDxwT0g2CTYZ8Uz537zV\n7XTXF4TpLOE6qJOdkbP2CD4IDNzLkL/Vs9QvicqCBtb+uVt2k9EBfXjreUo3lOaE\nORi3hVGAqAPlzh1u7INEzQ26E0q+gcTmqsuHUbnsR53DcvAXIczVsBBLhQKBgQCY\n7YM97MH8lI8wLCFXGUfxl2qP10MoNAQ7HfWG4niHkLoOgy+ZaJ7RF32VQfyKz4RI\nmt7D+HA/ja6i3zBv/wcJF67lEDk5a/rWxxzU0y7kVPHjCRpYIZDNgnhvSgnDjgm3\n719G4Gg65YH3a2S04veEnY/V5SZS0CAne4QycslBNQKBgF0pfmvXftwyRqMWLS20\negpVvACPDs/ssGY5NtgxSA/aJuwu2MNsIkwrTQ3KXdy8WbGPKLGMWE3LdRVg1YXg\nw9ovXhIlWW+UJ5EYMpfStLB8YgMtasLWOHNHsQ3FjVhXt31kz7tPbK/zS0qf1ZkK\nAms4Fx39h3AMoualz6fzYZmG\n-----END PRIVATE KEY-----\n",
+  "client_email": "iqtest-service-api@iq-test-master.iam.gserviceaccount.com",
+  "client_id": "109595882129231947325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iqtest-service-api%40iq-test-master.iam.gserviceaccount.com"
+}
